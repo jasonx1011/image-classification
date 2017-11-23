@@ -8,4 +8,5 @@
   
 Please see detail in python notebook (.ipynb)  
   
+**Sample Results:**  
 ![sample_plot_1](./assets/sample_plot_1.png)  
