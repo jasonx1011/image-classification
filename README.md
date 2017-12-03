@@ -1,10 +1,9 @@
 # image-classification
 
-**Deep Learning Foundation Nanodegree Program**  
+**Image Classification using Convolutional Neural Networks (CNNs)**  
 
-**Project 2 (Convolutional Neural Networks, CNN):**  
-  
-**Image Classification**  
+**Summary**  
+Classified images from the CIFAR-10 dataset using maxpool and dropout techniques, validation accuracy = 0.60  
   
 Please see detail in python notebook (.ipynb)  
   
